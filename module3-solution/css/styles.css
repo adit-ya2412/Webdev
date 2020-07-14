@@ -12,14 +12,14 @@ body{
 
 	
 }
-#logo-img{
+/*#logo-img{
 	background:url('../pictures/logo.jpg')no-repeat;
 	width: 150px;
 	height:150px;
 	
 	margin-bottom: -25px;
 	
-}
+}*/
 .navbar-brand{
 	padding-top: 15px;  
 }
@@ -88,11 +88,6 @@ body{
 	padding: 10px;
 	background-color: black;
 	margin-bottom: 20px;
-}
-.categories-3{
-	width: 1px;
-	height: 1px;
-	background-color:red; 
 }
 /************media queries***********/
 @media(max-width: 767px)
